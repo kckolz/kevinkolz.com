@@ -85,6 +85,10 @@ body{
   color: #000;
 }
 
+.icon {
+  margin: 0 5px;
+}
+
 .icon:hover {
   opacity: .5;
 }
