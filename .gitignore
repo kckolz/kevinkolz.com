@@ -1,0 +1,12 @@
+.idea/
+bower_components/
+node_modules/
+tmp/
+.tmp/
+.sass-cache
+.tmp/*
+dist/
+assets/
+.DS_Store
+npm-debug.log
+.env
